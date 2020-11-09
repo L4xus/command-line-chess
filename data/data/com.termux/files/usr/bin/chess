@@ -1,0 +1,12 @@
+echo before running run
+
+echo baseutils-rstrap
+
+echo " "
+
+echo running chess...
+
+echo " "
+
+python /data/data/com.termux/files/rootstrap/programs/terminal/termux-chess/main.py
+
