@@ -1,4 +1,4 @@
-[![Run on Repl.it](https://repl.it/badge/github/marcusbuffett/command-line-chess)](https://repl.it/github/marcusbuffett/command-line-chess)
+TERMUX FORK FOR ROOTSTRAP
 command-line-chess
 ==================
 
