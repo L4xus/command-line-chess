@@ -44,6 +44,10 @@ wget https://raw.githubusercontent.com/L4xus/command-line-chess/roostrap-build/R
 
 wget https://raw.githubusercontent.com/L4xus/command-line-chess/roostrap-build/Roostrap/programs/terminal/termux-chess/termcolor_test.py
 
+wget https://raw.githubusercontent.com/L4xus/termux-chess/master/setup.py
+
+python setup.py install
+
 echo done...
 
 echo ♚ run chess to start! ♚
